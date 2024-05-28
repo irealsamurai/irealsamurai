@@ -1,10 +1,12 @@
-<h2 align="center">Hi 👋, I'm Taha Mohamed</h2>
+<h1 align="center">Hi 👋, I'm Taha Mohamed</h1>
 <h3 align="center">Interested in web design. I focus on specializing more in User Experience and Interface Design and i have a full experience in web scraping.</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/t.mohamedd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="t.mohamedd7" height="30" width="40" /></a>
+<a href="https://discord.gg/probot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="probot" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>

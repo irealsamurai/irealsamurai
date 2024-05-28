@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Mohamed</h1>
-<h3 align="center">A passionate web scraper from egypt</h3>
+<h3 align="center">Interested in web design. I focus on specializing more in User Experience and Interface Design and i have a full experience in web scraping.</h3>
 
-- 🔭 I’m currently working on **EAGLES**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Mohamed</h1>
-<h3 align="center">Interested in web design. I focus on specializing more in User Experience and Interface Design and i have a full experience in web scraping.</h3>
+<h3 align="center">Hello! 👋 I'm Taha, 20 years old, and a full-stack developer with a strong inclination towards web interface design. I'm dedicated to enhancing user experiences, specializing in UI and web design, Also i have full experience in WebScraping.</h3>
 
 
 <h3 align="center">Languages and Tools</h3>
